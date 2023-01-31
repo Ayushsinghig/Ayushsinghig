@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img alt="gif" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
